@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/todo-typescript/static/css/main.a21132e4.css",
-    "main.js": "/todo-typescript/static/js/main.98bbcf60.js",
+    "main.css": "/todo-typescript/static/css/main.d0d3c7fd.css",
+    "main.js": "/todo-typescript/static/js/main.ab1cd70d.js",
     "static/js/787.bb66f437.chunk.js": "/todo-typescript/static/js/787.bb66f437.chunk.js",
     "static/media/avatar.png": "/todo-typescript/static/media/avatar.eb0d641270c56eebab93.png",
     "static/media/fixed.png": "/todo-typescript/static/media/fixed.70f57d84bccace5cf5db.png",
     "index.html": "/todo-typescript/index.html",
-    "main.a21132e4.css.map": "/todo-typescript/static/css/main.a21132e4.css.map",
-    "main.98bbcf60.js.map": "/todo-typescript/static/js/main.98bbcf60.js.map",
+    "main.d0d3c7fd.css.map": "/todo-typescript/static/css/main.d0d3c7fd.css.map",
+    "main.ab1cd70d.js.map": "/todo-typescript/static/js/main.ab1cd70d.js.map",
     "787.bb66f437.chunk.js.map": "/todo-typescript/static/js/787.bb66f437.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a21132e4.css",
-    "static/js/main.98bbcf60.js"
+    "static/css/main.d0d3c7fd.css",
+    "static/js/main.ab1cd70d.js"
   ]
 }
